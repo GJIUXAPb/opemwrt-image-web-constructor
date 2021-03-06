@@ -1,2 +1,2 @@
-# opemwrt-image-web-constructor
+# OpenWRT Веб-конструктор образов
 Онлайн-конструктор прошивок OpenWRT
